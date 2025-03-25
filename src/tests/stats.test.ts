@@ -1,4 +1,4 @@
-import {average, sum} from "../stats";
+import {average, sum} from "../core/stats";
 
 
 describe("Stats should", ()=>{

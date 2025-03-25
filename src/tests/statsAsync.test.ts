@@ -1,4 +1,4 @@
-import * as statsAsync from "../statsAsync";
+import * as statsAsync from "../core/statsAsync";
 
 describe("Stats Async should", ()=>{
     it("calculates the sum of all elements of the array (async)", async ()=>{

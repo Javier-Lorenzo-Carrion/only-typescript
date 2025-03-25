@@ -1,4 +1,4 @@
-import {fizzbuzz} from "../fizzbuzzV1";
+import {fizzbuzz} from "../core/fizzBuzzV1";
 
 
 describe('FizzBuzz should', () => {
