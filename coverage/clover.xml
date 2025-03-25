@@ -2,7 +2,7 @@
 <coverage generated="1742820176462" clover="3.2.0">
   <project timestamp="1742820176462" name="All files">
     <metrics statements="18" coveredstatements="18" conditionals="3" coveredconditionals="3" methods="7" coveredmethods="7" elements="28" coveredelements="28" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
-    <file name="fizzbuzz.ts" path="E:\Fuentes y formación\Informatica\Instituto FOC\Curso 2024-2025\FCT y PI\only-typescript\src\fizzbuzz.ts">
+    <file name="fizzbuzzV1.ts" path="E:\Fuentes y formación\Informatica\Instituto FOC\Curso 2024-2025\FCT y PI\only-typescript\src\fizzbuzzV1.ts">
       <metrics statements="9" coveredstatements="9" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="21" type="stmt"/>
